@@ -1,0 +1,1 @@
+import{_ as t,c as o,a,o as r}from"./index-CRv6mMhs.js";const n={},s={class:"feedback-container"};function c(l,e){return r(),o("div",s,e[0]||(e[0]=[a("a",{class:"telegram-button",href:"https://t.me/shakesoul",target:"_blank",rel:"noopener noreferrer"},[a("span",null,"Contact on Telegram")],-1)]))}const d=t(n,[["render",c],["__scopeId","data-v-eacd9cec"]]);export{d as default};
